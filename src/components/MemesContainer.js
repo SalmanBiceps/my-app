@@ -32,12 +32,9 @@ class MemesContainer extends React.Component{
             rndImg:rndImg,
             isLoading:false
         })
-        
-        
     }
 
     render= () => {
-        
         return (
             <div>
                 <main>
